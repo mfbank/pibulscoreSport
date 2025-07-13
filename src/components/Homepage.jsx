@@ -125,7 +125,7 @@ export default function Homepage() {
         <div className="w-full h-64 md:h-80 lg:h-96 bg-gray-200 overflow-hidden">
           {/* Replace the src below with your banner image URL */}
           <img 
-            src="https://lh3.googleusercontent.com/proxy/R3Z6AquYuudDfzEo4jJOxZ8wYPZeMyzyB4l2hciPVNVytw4zIcmwyj9DFNfIkO0gxOzRAhFgaG33Bc1qpoVAt3Ous4BRKNIVFGEzzL00H5Gw1SqbDg" 
+            href="/src/pic/image.png"
             alt="กีฬาสี 2568 Banner" 
             className="w-full h-full object-cover"
           />
