@@ -1,0 +1,128 @@
+[
+  {
+    "matchId": "football-male-1",
+    "sport": "football",
+    "gender": "male",
+    "date": "4 สิงหาคม 2568",
+    "time": "14:20",
+    "teamA": {
+      "number": 1,
+      "color": "blue",
+      "name": "คณะ 1",
+      "score": 1
+    },
+    "teamB": {
+      "number": 4,
+      "color": "green",
+      "name": "คณะ 4",
+      "score": 0
+    },
+    "status": "live",
+    "round": "คู่ที่ 1"
+  },
+  {
+    "matchId": "football-female-1",
+    "sport": "football",
+    "gender": "female",
+    "date": "4 สิงหาคม 2568",
+    "time": "14:50",
+    "teamA": {
+      "number": 2,
+      "color": "yellow",
+      "name": "คณะ 2",
+      "score": 0
+    },
+    "teamB": {
+      "number": 6,
+      "color": "purple",
+      "name": "คณะ 6",
+      "score": 0
+    },
+    "status": "upcoming",
+    "round": "คู่ที่ 2"
+  },
+  {
+    "matchId": "basketball-male-1",
+    "sport": "basketball",
+    "gender": "male",
+    "date": "4 สิงหาคม 2568",
+    "time": "15:20",
+    "teamA": {
+      "number": 3,
+      "color": "pink",
+      "name": "คณะ 3",
+      "score": 0
+    },
+    "teamB": {
+      "number": 1,
+      "color": "blue",
+      "name": "คณะ 1",
+      "score": 0
+    },
+    "status": "upcoming",
+    "round": "คู่ที่ 3"
+  },
+  {
+    "matchId": "basketball-female-1",
+    "sport": "basketball",
+    "gender": "female",
+    "date": "4 สิงหาคม 2568",
+    "time": "16:00",
+    "teamA": {
+      "number": 5,
+      "color": "red",
+      "name": "คณะ 5",
+      "score": 0
+    },
+    "teamB": {
+      "number": 4,
+      "color": "green",
+      "name": "คณะ 4",
+      "score": 0
+    },
+    "status": "upcoming",
+    "round": "คู่ที่ 4"
+  },
+  {
+    "matchId": "volleyball-male-1",
+    "sport": "volleyball",
+    "gender": "male",
+    "date": "5 สิงหาคม 2568",
+    "time": "14:20",
+    "teamA": {
+      "number": 4,
+      "color": "green",
+      "name": "คณะ 4",
+      "score": 0
+    },
+    "teamB": {
+      "number": 2,
+      "color": "yellow",
+      "name": "คณะ 2",
+      "score": 0
+    },
+    "status": "upcoming",
+    "round": "คู่ที่ 5"
+  },
+  {
+    "matchId": "volleyball-female-1",
+    "sport": "volleyball",
+    "gender": "female",
+    "date": "5 สิงหาคม 2568",
+    "time": "14:50",
+    "teamA": {
+      "number": 3,
+      "color": "pink",
+      "name": "คณะ 3",
+      "score": 0
+    },
+    "teamB": {
+      "number": 6,
+      "color": "purple",
+      "name": "คณะ 6",
+      "score": 0
+    },
+    "status": "upcoming",
+    "round": "คู่ที่ 6"
+  }
+]

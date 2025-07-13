@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Noto Sans Thai', sans-serif;
+}
+
+@layer components {
+  .bg-blue-500 {
+    background-color: #3b82f6;
+  }
+  
+  .bg-yellow-500 {
+    background-color: #eab308;
+  }
+  
+  .bg-pink-500 {
+    background-color: #ec4899;
+  }
+  
+  .bg-green-500 {
+    background-color: #22c55e;
+  }
+  
+  .bg-red-500 {
+    background-color: #ef4444;
+  }
+  
+  .bg-purple-500 {
+    background-color: #a855f7;
+  }
+}
