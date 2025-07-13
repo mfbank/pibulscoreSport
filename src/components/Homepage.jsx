@@ -124,11 +124,12 @@ export default function Homepage() {
       <div className="relative">
         <div className="w-full h-64 md:h-80 lg:h-96 bg-gray-200 overflow-hidden">
           {/* Replace the src below with your banner image URL */}
-          <img 
-            href="/src/pic/image.png"
+         <img 
+             src="/public/images/image.png"
             alt="กีฬาสี 2568 Banner" 
-            className="w-full h-full object-cover"
+             className="w-full h-full object-cover"
           />
+
           {/* Optional overlay for better text readability */}
           <div className="absolute inset-0 bg-black bg-opacity-20"></div>
           
