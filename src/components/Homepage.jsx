@@ -94,9 +94,9 @@ export default function Homepage() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-r from-green-500 via-white to-red-500">
+    <div className="min-h-screen bg-gray-50">
       {/* Header */}
-      <header className="bg-gradient-to-r from-green-500 via-white to-red-500 shadow-sm border-b">
+      <header className="bg-white shadow-sm border-b">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-3">
