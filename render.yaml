@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: pibul-backend
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server/server.js
+    rootDir: .
+    envVars:
+      - key: PORT
+        value: 10000
